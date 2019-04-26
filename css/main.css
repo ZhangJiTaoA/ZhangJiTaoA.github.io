@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7a59ff;
+  background: #faf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3174,6 +3174,21 @@ body {
   background-attachment: fixed;
   background-position: 50% 50%;
   background-size: cover;
+}
+.site-meta {
+  background-image: url("/images/littleback.jpeg");
+}
+#sidebar {
+  background: #fff;
+  opacity: 0.85;
+}
+.header .header-inner {
+  background: #fff;
+  opacity: 0.85;
+}
+.content-wrap {
+  background: #fff;
+  opacity: 0.85;
 }
 @-moz-keyframes pace-spinner {
   0% {

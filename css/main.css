@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff649;
+  background: #f02;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3179,6 +3179,7 @@ body {
   height: 100px;
   background-image: url("/images/littleback.jpeg");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 #sidebar {
   background: #fff;

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F04%2F28%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[网址集合]]></title>
+    <url>%2F2019%2F04%2F28%2F%E7%BD%91%E5%9D%80%E9%9B%86%E5%90%88%2F</url>
+    <content type="text"><![CDATA[一.资源网站1. 图片 Font awe图标http://www.fontawesome.com.cn/faicons/ 网站背景https://www.toptal.com/designers/subtlepatterns/ unsplash图片http://unsplash.lofter.com/ 随机指定分辨率unsplash图片（加载慢，服务器在国外）https://unsplash.it/1600/900?random Bing的随机图片https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture 返回随机图片, 需指定分辨率http://lorempixel.com/1600/900 来自github的项目 github.com/xCss/binghttps://bing.ioliu.cn/v1/randhttps://bing.ioliu.cn/v1/rand?w=1920&amp;h=1200 123asfsafasdfasadf 2. 图书 知乎分享kindle使用：https://www.zhihu.com/question/21158269 百度贴吧azw3资源：https://tieba.baidu.com/f?kw=azw3 鸠摩搜书https://www.jiumodiary.com/ 书伴https://bookfere.com/ 脚本之家https://www.jb51.net/books/ 图灵社区http://www.ituring.com.cn/ 就爱计算机http://www.jiuaijsj.com/ 中国国家图书馆http://www.nlc.cn/ 3. java_jar包下载 https://mvnrepository.com/ https://www.findjar.com/index.x 4. 在线工具 在线工具http://tool.oschina.net/ 在线制图https://www.processon.com/ ip地址查询http://www.ip138.com/ 二. 学习网站1. 课程学习 慕课网https://www.imooc.com/ 网易公开课https://open.163.com/ 我要自学网https://www.51zxw.net/ 极客学院（编程）http://www.jikexueyuan.com/ 菜鸟教程（编程）https://www.runoob.com/ 实验楼（编程）https://www.shiyanlou.com/ 2. 专业学习 linux公社https://www.linuxidc.com/ 鸟叔的linux私房菜http://linux.vbird.org/ linux中国开源社区https://linux.cn/ java视频教程推荐http://tech.163.com/special/00091T71/javashipin.html leetcodehttps://leetcode-cn.com/ 牛客https://www.nowcoder.com/ PAThttps://www.patest.cn/ githubhttps://github.com/ csdnhttps://www.csdn.net/ 博客园https://www.cnblogs.com/]]></content>
+      <categories>
+        <category>吃</category>
+      </categories>
+      <tags>
+        <tag>网址</tag>
+      </tags>
   </entry>
 </search>
